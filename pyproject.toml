@@ -4,7 +4,7 @@ description = ""
 name = "django-template"
 version = "0.1.0"
 [tool.poetry.dependencies]
-Django = "^5.0"
+Django = "^5.1"
 python = "^3.10"
 [tool.poetry.dev-dependencies]
 
